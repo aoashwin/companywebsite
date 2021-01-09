@@ -281,6 +281,7 @@ Publish the website in the given URL.
         <hr/>
         <div class="contactemail"><h1>Email: aosiliconcompany@gmail.com</h1></div>
         <div class="contactphone"><h2>Phone: +91-9159425427</h2></div>
+        <div class="contactphone"><h2>Address: © Silican pvt,Mountain View, California, United-States</h2></div>
         <hr/>
     </div>
 
@@ -303,5 +304,6 @@ Publish the website in the given URL.
 ![output](./static/img/validpeople.png)
 
 ![output](./static/img/validcontactus.png)
+
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://aoashwin.student.saveetha.in:8000/. HTML code is validated.
